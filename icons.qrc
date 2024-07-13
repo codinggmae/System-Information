@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Icons/9385963701556258272-64.png</file>
+    <file>Icons/10412341841540553610-64.png</file>
+    <file>Icons/2458403001543238954-48.png</file>
+    <file>Icons/2010892651596027191-48.png</file>
+    <file>Icons/66523478616348799344498-48.png</file>
+    <file>Icons/12637397821543238851-48.png</file>
+    <file>Icons/973587481543238906-48.png</file>
+    <file>Icons/12945177681543238861-48.png</file>
+    <file>Icons/6423304151582806558-48.png</file>
+    <file>Icons/16743131341543238854-48.png</file>
+    <file>Icons/restore-window-line-icon.png</file>
+    <file>Icons/5020973501543238905-128.png</file>
+    <file>Icons/close-line-icon.png</file>
+    <file>Icons/18175771511543238851-32.png</file>
+  </qresource>
+</RCC>
